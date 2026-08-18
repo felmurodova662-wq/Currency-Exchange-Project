@@ -82,3 +82,7 @@ To explore the complete interactive dashboard, download and open the following f
 [Open the Power BI Dashboard](currency_exchange.pbix)
 
 
+## Dashboard Preview
+
+![Currency Exchange Dashboard](Screenshot 2026-08-18 142345.png)
+
