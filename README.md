@@ -75,9 +75,5 @@ The pipeline can be configured in Windows Task Scheduler to run automatically ev
 
 To explore the complete interactive dashboard, download and open the following file in Power BI Desktop:
 
-## View the Result
-
-To explore the complete interactive dashboard, download and open the following file in Power BI Desktop:
-
 [Open the Power BI Dashboard](currency_exchange.pbix)
 
