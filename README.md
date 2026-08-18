@@ -71,3 +71,14 @@ Exchange-rate data is obtained from the official Central Bank of the Republic of
 The pipeline can be configured in Windows Task Scheduler to run automatically every day. Each execution retrieves the latest data, processes it, and loads it into SQL Server for Power BI reporting.
 
 
+## View the Result
+
+To explore the complete interactive dashboard, download and open the following file in Power BI Desktop:
+
+## View the Result
+
+To explore the complete interactive dashboard, download and open the following file in Power BI Desktop:
+
+(currency_exchange.pbix)
+
+
