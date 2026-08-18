@@ -84,5 +84,5 @@ To explore the complete interactive dashboard, download and open the following f
 
 ## Dashboard Preview
 
-![Dashboard](Screenshot 2026-08-18 142345.png)
+![Currency Exchange Dashboard](Screenshot 2026-08-18 142345.png)
 
